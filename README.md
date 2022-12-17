@@ -1,2 +1,3 @@
 # power-strength-gym-project
-using html css and javascript made simple gym site
+Using Html Css and Javascript made simple gym site
+Used validation in login page and sign up page
